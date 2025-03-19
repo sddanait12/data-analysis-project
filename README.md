@@ -2,6 +2,10 @@
 # data-analysis-project
 Анализ данных и прогнозирование сердечной недостаточности на основе датасета Heart Failure Prediction Dataset. Проект включает в себя предварительную обработку данных, создание новых признаков, EDA, визуализацию, проверка гипотез.
 
+## Файлы
+- `heart.csv`: Исходные данные.
+- `heart_failure_analysis.ipynb`: Jupyter Notebook с анализом.
+
 ## Attribute Information
 
 - **Age**: age of the patient [years]  
