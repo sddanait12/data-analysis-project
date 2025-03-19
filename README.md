@@ -25,5 +25,5 @@
   [Up: upsloping, Flat: flat, Down: downsloping]  
 - **HeartDisease**: output class [1: heart disease, 0: Normal]  
 
-Автор: 
+## Автор проекта: 
 Кочубеев Вадим
